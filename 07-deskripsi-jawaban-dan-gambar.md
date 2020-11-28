@@ -43,3 +43,11 @@
 11. cek di heroku
 
 ![cek](https://github.com/gilbranfairuz/Devops-B2K3/blob/main/folder-images-jawaban/07-11-cek-heroku.png)
+
+12. Error karena table belum dibuat
+  > database yang digunakan addons pada heroku heroku-postgresql hobby-dev
+
+![error](https://github.com/gilbranfairuz/Devops-B2K3/blob/main/folder-images-jawaban/07-12-error.png)
+
+13. db.js
+![db](https://github.com/gilbranfairuz/Devops-B2K3/blob/main/folder-images-jawaban/07-13-db-js.png)
